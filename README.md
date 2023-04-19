@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroFPro
 - 👀 I’m interested in Games and program
-- 🌱 I’m currently learning Java Script ;)
+- 🌱 I’m currently learning Java Script/TypeScript ;)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @pedro.paulo908 IG ;)
 

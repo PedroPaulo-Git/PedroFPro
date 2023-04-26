@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedroFPro
+- 👋 Hi, I’m @Pedro.paulo908
 - 👀 I’m interested in Games and program
 - 🌱 I’m currently learning Java Script/TypeScript ;)
 - 💞️ I’m looking to collaborate on ...
